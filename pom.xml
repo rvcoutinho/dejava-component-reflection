@@ -20,9 +20,9 @@
 	<version>${build.number}</version>
 
 	<scm>
-		<connection>scm:git:git@github.com:rvcoutinho/dejava-component-reflection.git</connection>
-		<url>scm:git:git@github.com:rvcoutinho/dejava-component-reflection.git</url>
-		<developerConnection>scm:git:git@github.com:rvcoutinho/dejava-component-reflection.git</developerConnection>
+		<connection>scm:git:https://github.com/rvcoutinho/dejava-component-reflection.git</connection>
+		<url>http://github.com/rvcoutinho/dejava-component-reflection</url>
+		<developerConnection>scm:git:https://github.com/rvcoutinho/dejava-component-reflection.git</developerConnection>
 	</scm>
 
 	<build>
