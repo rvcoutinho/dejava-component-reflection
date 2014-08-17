@@ -9,11 +9,21 @@
 		<version>0.0.1</version>
 	</parent>
 
+	<properties>
+		<build.number>1.0.0-SNAPSHOT</build.number>
+	</properties>
+
 	<artifactId>reflection</artifactId>
 
 	<name>Reflection</name>
-	
-	<version>1.0.0-SNAPSHOT</version>
+
+	<version>${build.number}</version>
+
+	<scm>
+		<connection>scm:git:git@github.com:rvcoutinho/dejava-component-reflection.git</connection>
+		<url>scm:git:git@github.com:rvcoutinho/dejava-component-reflection.git</url>
+		<developerConnection>scm:git:git@github.com:rvcoutinho/dejava-component-reflection.git</developerConnection>
+	</scm>
 
 	<build>
 		<plugins>
