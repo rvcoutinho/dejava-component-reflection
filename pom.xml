@@ -16,13 +16,13 @@
 
 	<name>Reflection</name>
 
-	<version>1.0.0</version>
+	<version>1.0.0-SNAPSHOT</version>
 
 	<scm>
 		<connection>scm:git:https://github.com/rvcoutinho/dejava-component-reflection.git</connection>
 		<url>http://github.com/rvcoutinho/dejava-component-reflection</url>
 		<developerConnection>scm:git:https://github.com/rvcoutinho/dejava-component-reflection.git</developerConnection>
-	  <tag>reflection-1.0.0</tag>
+	  <tag>HEAD</tag>
   </scm>
 
 	<build>
